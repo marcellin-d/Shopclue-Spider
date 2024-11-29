@@ -1,5 +1,4 @@
 ---
-
 # **Shopclue Spider**
 
 ## **Description**  
