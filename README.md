@@ -37,7 +37,7 @@ pip install scrapy
 ### **1. Clone the Repository**  
 Clone the repository and navigate into the project directory:  
 ```bash
-git clone https://github.com/yourusername/shopclue-spider.git
+git clone https://github.com/marcellin-d/shopclue-spider.git
 cd shopclue-spider
 ```
 
